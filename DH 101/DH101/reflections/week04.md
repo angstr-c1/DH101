@@ -1,0 +1,6 @@
+# Week 4 Reflection
+
+## Reflect 4: Is AI a collaborator, tool, or plagiarist in storytelling?
+I find a question like this to be incredibly difficult to have a definitive answer to. However, after creating my comic, I feel as though AI can be used as both a collaborator and a tool. Personally, though, I would reduce it to primarily a tool. This is because (at least at its current state) I felt as though I was fighting rather than working with it to create my desired output. On the other hand, I could use it as a collaborator by taking what it generates and using it as inspiration to create something different. For instance, if you ask it to write a story, you could take notes from it to create your own independent story (this also would apply if you gave AI your story and asked it to create a story based around your ideas.)
+
+Because of this, I would say that it could be both a collaborator, tool, and plagiarist in storytelling depending on the context. If you were to use it to prompt for ideas in an ethical manner, it could be used as a tool with slight collaboration but it is also very easy to fall into the trap of plagiarism with AI.

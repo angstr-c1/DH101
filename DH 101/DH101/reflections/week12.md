@@ -1,0 +1,6 @@
+# Week 12 Reflection
+
+## Reflect 12: Is AI sustainable? What ecological trade-offs are we willing to accept?
+I think AI, in theory, can be sustainable. However, this would take a serious change in how the general public lives. Because of this, I don't realistically think that AI can be sustainable. There would need to be serious regulations on how AI is used (for instance, only allowing for it to be used for research and development). On top of this, the aging power grid would need to be consistently replaced to accommodate for an increased power demand. This would not only cause more problems for the environment, but it would also cost a considerable amount of money that could have been put into other resources for the betterment of the area's ecology. 
+
+With that being said, I think that there are greater strides that we could be taking to lessen the environmental toll that AI puts on the world. For one, I believe that if an advertising campaign was put into place that encouraged people to use AI more consciously, there would be a great decrease in CO2 emissions, etc..

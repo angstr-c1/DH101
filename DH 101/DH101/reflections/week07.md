@@ -1,0 +1,6 @@
+# Week 7 Reflection
+
+## Reflect 7: How does AI reshape global geographies of power, labor, and environment?
+Artificial Intelligence, both physically and culturally, completely reshapes the global geographies of power, labor, and environment. Whether this is through the building of data centers or replacing jobs, AI can completely change the way that we structure our global economy. For instance, if a data center is built in a low-income area, it not only affects the surrounding area environmentally and economically, but it would cause a chain that changes the global balance. For instance, if a data center is built in Omaha, Nebraska, it would benefit a headquarters in San Francisco, California using tin mined in Peru, causing both positive and negative effects on that surrounding environment. So, while it is providing jobs for people, AI is built on the backs of people who are being taken advantage of and exploited for their natural resources and cheap labor.
+
+On top of this, AI causes significant environmental changes. For instance, AI data centers need a significant amount of water to operate, creating a large dent in our already limited supply of fresh water. Considering that these data centers are predominantly erected in low-cost, poorer areas of the country, this would make access to fresh water even more difficult for these people.
