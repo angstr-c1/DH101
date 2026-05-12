@@ -1,0 +1,4 @@
+# Week 11 Reflection
+
+## Reflect 11: Who does the invisible work of AI, and who profits from it?
+The "invisible work" of AI is typically done by those who are exploited by large corporations. These workers are typically paid a minimal wage (often in other countries) where these companies pay JUST enough to keep people working without paying them enough to move up in the economic ladder. These jobs are typically those that are not directly seen in the final product but are still essential to the creation of the product. Often times, these jobs require long working hours, harsh conditions, a large mental toil, and sometimes, the risk of death or bodily harm on the job. On top of this, AI and technology companies have exploited and used this labor so that they can "keep their product cost low" while still raising the price for the consumer, continuing the practice of colonialism through a 2026 lens.

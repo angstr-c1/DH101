@@ -1,0 +1,4 @@
+# Week 3 Reflection
+
+## Reflect 3: What does "authenticity" mean when identity is co-constructed with AI?
+"Authenticity" almost goes entirely out the window when talking about AI. Similar to how we have discussed with LLMs, AI takes from other data and builds upon it. For instance, with our "selfies" from make 2, the original data of your photo is authentic, however, AI takes information from other "authentic" sources to create an inauthentic product. While it can combine similar data, it can't understand the meanings of culture and identity. On the other hand, you could argue that culture is just a culmination of "data" if you were to look at it from a "computing" standpoint. However, I think that it is the deeper meaning that we assign to the data that allows an authenticity to identity.

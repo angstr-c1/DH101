@@ -1,0 +1,6 @@
+# Week 6 Reflection
+
+## Reflect 6: What do we gain/lose when machines "read" literature for us?
+When machines "read" literature for us, we lose the ability to think critically about the actual text but we gain the ability to analyze material in a fraction of the time that it would otherwise require to understand and extract data from a text or a group of texts. In the context of historical research, it allows for data, like trends in vocabulary, to be extracted from an seemingly infinite amount of sources and applied at a manageable scale. However, when using machines to process this data, we lose the ability to think about things like the meaning behind prose or other critical thinking applications that are often very important to understanding a text. This is very hard for a machine or AI to understand because they are essentially flattening data to make it available in a summary format.
+
+Essentially, I think that machines are a useful tool for understanding larger trends but can't replace a human in understanding and analyzing the nuances of a text.

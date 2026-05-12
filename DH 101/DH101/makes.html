@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Makes - DH 101</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <a class="skip-link" href="#main">Skip to main content</a>
+    <nav role="navigation" aria-label="Main navigation">
+        <div class="nav-container">
+            <h1 class="site-title"><a href="index.html">DH 101</a></h1>
+            <ul class="nav-menu">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="reflections.html">Reflections</a></li>
+                <li><a href="makes.html">Makes</a></li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="false">Pages</a>
+                    <ul class="dropdown-menu">
+                        <li><a href="pages/about.html">About</a></li>
+                        <li><a href="pages/accessibility.html">Accessibility</a></li>
+                        <li><a href="pages/how-i-use-ai.html">How I Use AI</a></li>
+                        <li><a href="pages/sustainability.html">Sustainability</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <main id="main">
+        <section class="hero makes-hero">
+            <p class="hero-kicker">DH 101 Archive</p>
+            <h2>Weekly Creations</h2>
+            <p>Browse each week of making, from finished pages to in-progress notes and process documentation.</p>
+        </section>
+
+        <section class="catalog-controls" aria-label="Filter creations by status">
+            <button class="filter-btn active" type="button" data-filter="all">All</button>
+            <button class="filter-btn" type="button" data-filter="published">Published Pages</button>
+        </section>
+
+        <section class="makes-catalog" aria-label="Weekly makes catalog">
+            <article class="catalog-card" data-kind="published">
+                <p class="card-week">Week 01</p>
+                <h3>Reverse Engineering</h3>
+                <p>Published project page with artifact notes, process discussion, and attribution details.</p>
+                <div class="catalog-actions">
+                    <a href="makes/week01.html" class="btn">View Page</a>
+                </div>
+            </article>
+
+            <article class="catalog-card" data-kind="notes">
+                <p class="card-week">Week 02</p>
+                <h3>AI, Identity, and Pattern</h3>
+                <p>A reflective make exploring how AI can shape ideas of humanity, authorship, and representation.</p>
+                <div class="catalog-actions">
+                    <a href="makes/week02.html" class="btn">View Page</a>
+                </div>
+            </article>
+
+            <article class="catalog-card" data-kind="notes">
+                <p class="card-week">Week 03</p>
+                <h3>Comic & Storytelling</h3>
+                <p>A narrative make built around comic structure and visual sequencing.</p>
+                <div class="catalog-actions">
+                    <a href="makes/week03.html" class="btn">View Page</a>
+                </div>
+            </article>
+
+            <article class="catalog-card" data-kind="published">
+                <p class="card-week">Week 04</p>
+                <h3>Surveillance Loop</h3>
+                <p>A looping GIF that creates unease through repetition and visual distortion.</p>
+                <div class="catalog-actions">
+                    <a href="makes/week04.html" class="btn">View Page</a>
+                </div>
+            </article>
+
+            <article class="catalog-card" data-kind="published">
+                <p class="card-week">Week 06</p>
+                <h3>Voyant vs. GPT</h3>
+                <p>A comparison of machine reading tools applied to Fitzgerald's texts.</p>
+                <div class="catalog-actions">
+                    <a href="makes/week06.html" class="btn">View Page</a>
+                </div>
+            </article>
+
+            <article class="catalog-card" data-kind="published">
+                <p class="card-week">Week 07</p>
+                <h3>Mapping AI Worlds</h3>
+                <p>A Google My Maps project tracing data centers and corporate headquarters.</p>
+                <div class="catalog-actions">
+                    <a href="makes/week07.html" class="btn">View Page</a>
+                </div>
+            </article>
+
+            <article class="catalog-card" data-kind="published">
+                <p class="card-week">Week 10</p>
+                <h3>Content Moderator</h3>
+                <p>An interactive Twine story about moderation, power, and AI judgment.</p>
+                <div class="catalog-actions">
+                    <a href="makes/week10.html" class="btn">View Page</a>
+                </div>
+            </article>
+
+            <article class="catalog-card" data-kind="published">
+                <p class="card-week">Week 11</p>
+                <h3>AI & Labor Infographic</h3>
+                <p>An infographic exploring labor, automation, and artificial intelligence.</p>
+                <div class="catalog-actions">
+                    <a href="makes/week11.html" class="btn">View Page</a>
+                </div>
+            </article>
+
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 DH 101 Critical Making | <a href="pages/accessibility.html">Accessibility</a> | <a href="pages/sustainability.html">Sustainability</a></p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
