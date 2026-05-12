@@ -1,5 +1,6 @@
-> **Markdown help:** See [markdown-guide.md](../pages/markdown-guide.md) for formatting tips and a reflection template.
-
 # Week 10 Reflection
 
-Reflect 10: How does AI change our relationship to play, rules, and narrative?
+## Reflect 10: How does AI change our relationship to play, rules, and narrative?
+I would argue that at its current state, AI doesn't necessarily make huge changes to play, rules, and narrative. However, even in its infancy, AI is making small changes that likely lead into large changes. By this, I mean that AI adds a set of "dynamic rules"- essentially, AI allows for unpredictable outcomes to arise. In the world of play, this means that interactive games don't need to follow a specific set of rules because the AI can change them in real time. This can also be true for narrative, creating a narrative that changes depending on the interaction with the "player" rather than falling into a specific set of paths. For instance, in our game, the player is forced to go down certain pathways, but every outcome is already scripted. If we were to use AI to write the dialogue, however, the player could type an action into the console and AI would provide a different answer every time. 
+
+However, I do believe that AI is too "young" to fully achieve these at a "human" standard quite yet.

@@ -1,5 +1,4 @@
-> **Markdown help:** See [markdown-guide.md](../pages/markdown-guide.md) for formatting tips and a reflection template.
-
 # Week 5 Reflection
 
-Reflect 5: How does AI alter authorship and remix culture? Who owns AI-made art?
+## Reflect 5: How does AI alter authorship and remix culture? Who owns AI-made art?
+When AI is used to alter authorship and remix culture, it can be viewed from two different perspectives. For one, you could immediately assume that it is detracting from the meaning that art provides. However, AI can also be used to create a commentary on art and culture. For instance, short-form internet content is filled with AI created entertainment, resulting in not only a shift in what people are viewing, but also a large-scale cultural shift with the introduction of new slang words created around AI content. So, while I believe that it does eventually take away a lot of the meaning behind art and culture, there is some value to still find in it. In terms of authorship of AI products, I think that it depends on the case. If the product was achieved through exclusively a prompt that doesn't require much thought behind the input, then I wouldn't necessarily credit it towards an individual. However, if the art is made through the efforts of a human, then I would consider it to still be the human's authorship. We see this through artists like Refik Anadol who AI almost as a paintbrush rather than as a creator. 

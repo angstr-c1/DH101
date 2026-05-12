@@ -7,7 +7,8 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <nav>
+    <a class="skip-link" href="#main">Skip to main content</a>
+    <nav role="navigation" aria-label="Main navigation">
         <div class="nav-container">
             <h1 class="site-title"><a href="index.html">DH 101</a></h1>
             <ul class="nav-menu">
@@ -15,12 +16,11 @@
                 <li><a href="reflections.html">Reflections</a></li>
                 <li><a href="makes.html">Makes</a></li>
                 <li class="dropdown">
-                    <a href="#" class="dropdown-toggle">Pages</a>
+                    <a href="#" class="dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="false">Pages</a>
                     <ul class="dropdown-menu">
                         <li><a href="pages/about.html">About</a></li>
                         <li><a href="pages/accessibility.html">Accessibility</a></li>
                         <li><a href="pages/how-i-use-ai.html">How I Use AI</a></li>
-                        <li><a href="pages/markdown-guide.html">Markdown Guide</a></li>
                         <li><a href="pages/sustainability.html">Sustainability</a></li>
                     </ul>
                 </li>
@@ -28,25 +28,92 @@
         </div>
     </nav>
 
-    <main>
-        <div class="week-list">
-            <h2>🛠️ Weekly Makes</h2>
-            <p>Artifacts and process documentation from weekly projects.</p>
-            <ul>
-                <li><a href="makes/week01.html">Week 1 – Reverse Engineering</a></li>
-                <li><a href="makes/week03.html">Week 3 Make</a></li>
-                <li><a href="makes/week04.html">Week 4 Make</a></li>
-                <li><a href="makes/week05.html">Week 5 Make</a></li>
-                <li><a href="makes/week06.html">Week 6 Make</a></li>
-                <li><a href="makes/week07.html">Week 7 Make</a></li>
-                <li><a href="makes/week08.html">Week 8 Make</a></li>
-                <li><a href="makes/week09.html">Week 9 Make</a></li>
-                <li><a href="makes/week10.html">Week 10 Make</a></li>
-                <li><a href="makes/week11.html">Week 11 Make</a></li>
-                <li><a href="makes/week12.html">Week 12 Make</a></li>
-                <li><a href="makes/week13.html">Week 13 Make</a></li>
-            </ul>
-        </div>
+    <main id="main">
+        <section class="hero makes-hero">
+            <p class="hero-kicker">DH 101 Archive</p>
+            <h2>Weekly Creations</h2>
+            <p>Browse each week of making, from finished pages to in-progress notes and process documentation.</p>
+        </section>
+
+        <section class="catalog-controls" aria-label="Filter creations by status">
+            <button class="filter-btn active" type="button" data-filter="all">All</button>
+            <button class="filter-btn" type="button" data-filter="published">Published Pages</button>
+        </section>
+
+        <section class="makes-catalog" aria-label="Weekly makes catalog">
+            <article class="catalog-card" data-kind="published">
+                <p class="card-week">Week 01</p>
+                <h3>Reverse Engineering</h3>
+                <p>Published project page with artifact notes, process discussion, and attribution details.</p>
+                <div class="catalog-actions">
+                    <a href="makes/week01.html" class="btn">View Page</a>
+                </div>
+            </article>
+
+            <article class="catalog-card" data-kind="notes">
+                <p class="card-week">Week 02</p>
+                <h3>AI, Identity, and Pattern</h3>
+                <p>A reflective make exploring how AI can shape ideas of humanity, authorship, and representation.</p>
+                <div class="catalog-actions">
+                    <a href="makes/week02.html" class="btn">View Page</a>
+                </div>
+            </article>
+
+            <article class="catalog-card" data-kind="notes">
+                <p class="card-week">Week 03</p>
+                <h3>Comic & Storytelling</h3>
+                <p>A narrative make built around comic structure and visual sequencing.</p>
+                <div class="catalog-actions">
+                    <a href="makes/week03.html" class="btn">View Page</a>
+                </div>
+            </article>
+
+            <article class="catalog-card" data-kind="published">
+                <p class="card-week">Week 04</p>
+                <h3>Surveillance Loop</h3>
+                <p>A looping GIF that creates unease through repetition and visual distortion.</p>
+                <div class="catalog-actions">
+                    <a href="makes/week04.html" class="btn">View Page</a>
+                </div>
+            </article>
+
+            <article class="catalog-card" data-kind="published">
+                <p class="card-week">Week 06</p>
+                <h3>Voyant vs. GPT</h3>
+                <p>A comparison of machine reading tools applied to Fitzgerald's texts.</p>
+                <div class="catalog-actions">
+                    <a href="makes/week06.html" class="btn">View Page</a>
+                </div>
+            </article>
+
+            <article class="catalog-card" data-kind="published">
+                <p class="card-week">Week 07</p>
+                <h3>Mapping AI Worlds</h3>
+                <p>A Google My Maps project tracing data centers and corporate headquarters.</p>
+                <div class="catalog-actions">
+                    <a href="makes/week07.html" class="btn">View Page</a>
+                </div>
+            </article>
+
+            <article class="catalog-card" data-kind="published">
+                <p class="card-week">Week 10</p>
+                <h3>Content Moderator</h3>
+                <p>An interactive Twine story about moderation, power, and AI judgment.</p>
+                <div class="catalog-actions">
+                    <a href="makes/week10.html" class="btn">View Page</a>
+                </div>
+            </article>
+
+            <article class="catalog-card" data-kind="published">
+                <p class="card-week">Week 11</p>
+                <h3>AI & Labor Infographic</h3>
+                <p>An infographic exploring labor, automation, and artificial intelligence.</p>
+                <div class="catalog-actions">
+                    <a href="makes/week11.html" class="btn">View Page</a>
+                </div>
+            </article>
+
+        </section>
     </main>
 
     <footer>

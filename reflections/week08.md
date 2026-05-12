@@ -1,5 +1,6 @@
-> **Markdown help:** See [markdown-guide.md](../pages/markdown-guide.md) for formatting tips and a reflection template.
-
 # Week 8 Reflection
 
-Reflect 8: Who is visible/invisible in AI networks? How does visualization reveal or obscure power?
+## Reflect 8: Who is visible/invisible in AI networks? How does visualization reveal or obscure power?
+With AI networks, we tend to view everything from a "top down" perspective. Because of this, we really only get to see the "big picture" players of AI. When these AI networks are created, they are trained primarily on "western" data from countries where these AI companies have headquarters. For example, data is collected from "more accessible" countries like the United States, Japan, Singapore, the United Kingdom, and Canada. In this case, it often doesn't include data from nations that are considered "developing." 
+
+I would argue that visualization can both reveal and obscure this power. For instance, by creating a visualization of these AI networks, it can bring to light certain "holes" in the information. However, it can also result in grouping or stereotyping people in a way that subtracts from the power. For instance, by showing that most of the data is collected in countries like the United States, it takes away from the data being extracted from a country like Nigeria by placing an emphasis on western data.
